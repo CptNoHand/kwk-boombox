@@ -12,3 +12,5 @@ to qb-core/shared.lua under QBShared.Items.
 Drag hifi.png into qb-inventory/html/images folder.
 
 Add item to a shop of your choice and enjoy!
+
+I am not the original author of this script. The original Author is SBRulez. I converted the script to funtion with the new version of QBCore.
